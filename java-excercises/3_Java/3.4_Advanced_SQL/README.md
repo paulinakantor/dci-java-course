@@ -18,25 +18,17 @@ By the end of this submodule, the learners should be able to:
 
 ### Exercises - instruction
 The following section describes standalone exercises to give to students. 
-For each exercise, follow the instructions below:
+For excercises you need to use Northwind database.
+You can follow given instruction to set up this database: https://github.com/pthom/northwind_psql
 
-Make each student download dataset from here: 
-https://www.kaggle.com/raulgcova/yeast-database or from this repository (yeastDataset.sqlite)
 
-Then import this dataset in DBeaver:
-1. In Database Navigator tab click the icon with plug with green plus, it should open a new window with a title "Connect to a database"
-2. Select SQLite and click "Next"
-3. Click "Browse" and select yeastDatabset.sqlite file from your computer
-4. Click "Finish"
 
 #### Exercises
 
-> 1. 
-When: 
-Time: ~
-Level of Difficulty: 
-Link: https://github.com/dci-java-course/Java-Texts-Find_Love
-Solution: https://github.com/dci-java-course/Java-Texts-Find_Love/tree/solution
-
+> 1. JOIN excercises
+When: After JOIN lecture
+Level of Difficulty: low
+Link: https://github.com/paulinakantor/dci-java-course/blob/main/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Joins/Join%20excercises
+Solution: https://github.com/paulinakantor/dci-java-course/blob/solutions/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Joins/Join%20solutions
 
 
