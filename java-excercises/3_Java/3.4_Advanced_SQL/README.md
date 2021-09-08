@@ -25,10 +25,13 @@ You can follow given instruction to set up this database: https://github.com/pth
 
 #### Exercises
 
-> 1. JOIN excercises
+> JOIN excercises
 > When: After JOIN lecture
-> Level of Difficulty: low
 > Link: https://github.com/paulinakantor/dci-java-course/blob/main/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Joins/Join%20excercises
 > Solution: https://github.com/paulinakantor/dci-java-course/blob/solutions/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Joins/Join%20solutions
 
+> Sub queries excercises
+> When: After sub queries lecture (explain max() function before)
+> Link: https://github.com/paulinakantor/dci-java-course/blob/main/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Subqueries/Sub%20queries%20excercises
+> Solution: https://github.com/paulinakantor/dci-java-course/blob/solutions/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Subqueries/Sub%20queries%20solutions
 
