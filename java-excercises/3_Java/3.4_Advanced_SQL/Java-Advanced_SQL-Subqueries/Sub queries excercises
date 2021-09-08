@@ -1,0 +1,19 @@
+Subqueries excercises
+
+
+1. Return all customers listed in the orders table who placed orders on the most recently recorded day. 
+Time: ~ 10 min
+Level of Difficulty: low
+
+2. Select all product names and prices that have unit price which is bigger than price of product with name 'Carnarvon Tigers'
+Time: ~ 10 min
+Level of Difficulty: low
+
+3. Select customer ids and ther contact names that made order that was shipped to Brazil
+Time: ~ 10 min
+Level of Difficulty: medium
+
+
+4. Select customer ids who ordered more than 20 items of product with name = 'Tofu' on a single order.
+Time: ~ 20 min
+Level of Difficulty: hard
