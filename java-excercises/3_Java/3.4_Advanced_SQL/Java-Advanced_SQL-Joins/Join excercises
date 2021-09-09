@@ -2,39 +2,18 @@ Join excercises
 
 
 1. Select all product names for suppliers from USA. 
-Time: ~ 10 min
-Level of Difficulty: low
 
 2. Select order id, order date, employee first and last namee for employee whose last name starts with 'D' and for order that was shipped to Germany.
-Time: ~ 15 min
-Level of Difficulty: low
-
 
 3. Select all orders shipped by United Package for orders soner than '1996-08-12'
-Time: ~ 10 min
-Level of Difficulty: low
 
 4. Select shippers company name that doesnt have any orders assigned
-Time: ~ 15 min
-Level of Difficulty: medium
-
 
 5. Select order ids that contains product from category 'Beverages' ordered '1996-08-14' 
-Time: ~ 20 min
-Level of Difficulty: medium
 
 6. Select product names and availability of products supplied by 'Lyngbysild' from category 'Seafood'
-Time: ~ 20 min
-Level of Difficulty: medium
 
 7. Select last names of employees assigned to 'Northern' region
-Time: ~ 20 min
-Level of Difficulty: medium
-
 
 8. Select employee id and his boss last name for those who have orders with date later than '1996-07-18'.
 if an employee doesn't have a boss don't include him.
-Time: ~ 30 min
-Level of Difficulty: hard
-
-
