@@ -54,7 +54,7 @@ Solution: https://github.com/paulinakantor/dci-java-course/blob/solutions/java-e
 
 GROUP BY & HAVING excercises
 Time: 3TU ~ 2h15min
-When: After all lectures (includes examples with aggregate functions, joins, sub queries, etc)
-Link: 
-Solution: 
+When: After all lectures (includes examples with aggregate functions, joins, sub queries). Also, knowledge about ordering (ORDER BY), limiting the result(LIMIT) and aliasing(AS) is important here.
+Link: https://github.com/paulinakantor/dci-java-course/blob/main/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Groupby_having/GROUP%20BY%20%26%20HAVING%20excercises
+Solution: https://github.com/paulinakantor/dci-java-course/blob/solutions/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Groupby_having/GROUP%20BY%20%26%20HAVING%20solutions
 
