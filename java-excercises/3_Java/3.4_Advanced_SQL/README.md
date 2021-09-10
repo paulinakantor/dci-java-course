@@ -13,15 +13,19 @@ By the end of this submodule, the learners should be able to:
 * Know how to group and filter records using GROUP BY and HAVING statements
 
 ## Materials and Resources
-### Resources
-
 
 ### Exercises - instruction
 The following section describes standalone exercises to give to students. 
 For excercises you need to use Northwind database.
 You can follow given instruction to set up this database: https://github.com/pthom/northwind_psql
 
+Schema for this database:
 
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.yugabyte.com%2Flatest%2Fsample-data%2Fnorthwind%2F&psig=AOvVaw1Ud47xUNm2Z97C-RhC-Tdw&ust=1631386356487000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCOi82_SJ9fICFQAAAAAdAAAAABAD)
+
+**IMPORTANT**
+According to agenda excercises about aggregate functions should have 3TU and GROUP BY should be a part of it. 
+I introduced a change here by putting GROUP BY and HAVING together. So excercises for aggregate functions contains only tasks for COUNT, SUM, MIN, MAX, AVG functions I plannned them to take 1TU. Excercises for GROUP BY and HAVING I planned to take 3TU.
 
 #### Exercises
 
@@ -37,13 +41,11 @@ When: After lecture about data types
 Link: 
 Solution: 
 
-
 Sub queries excercises
 Time: 1TU ~ 45min
 When: After lecture about sub queries (but max() function should be explained first)
 Link: https://github.com/paulinakantor/dci-java-course/blob/main/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Subqueries/Sub%20queries%20excercises
 Solution: https://github.com/paulinakantor/dci-java-course/blob/solutions/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Subqueries/Sub%20queries%20solutions
-
 
 Aggregate functions excercises
 Time: 1TU ~ 45min
@@ -51,10 +53,8 @@ When: After lecture about aggregate functions (without group by & having)
 Link: https://github.com/paulinakantor/dci-java-course/blob/main/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Aggregate_functions/Aggregate%20function%20excercises
 Solution: https://github.com/paulinakantor/dci-java-course/blob/solutions/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Aggregate_functions/Aggregate%20functions%20solutions
 
-
 GROUP BY & HAVING excercises
-Time: 3TU ~ 2h15min
-When: After all lectures (includes examples with aggregate functions, joins, sub queries). Also, knowledge about ordering (ORDER BY), limiting the result(LIMIT) and aliasing(AS) is important here.
+Time: 3TU ~ 2h15min 
+When: After all lectures (includes examples with aggregate functions, joins, sub queries). Also, knowledge about ordering (ORDER BY), limiting the result (LIMIT) and aliasing (AS) is important here.
 Link: https://github.com/paulinakantor/dci-java-course/blob/main/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Groupby_having/GROUP%20BY%20%26%20HAVING%20excercises
 Solution: https://github.com/paulinakantor/dci-java-course/blob/solutions/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Groupby_having/GROUP%20BY%20%26%20HAVING%20solutions
-
