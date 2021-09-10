@@ -19,9 +19,8 @@ The following section describes standalone exercises to give to students.
 For excercises you need to use Northwind database.
 You can follow given instruction to set up this database: https://github.com/pthom/northwind_psql
 
-Schema for this database:
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.yugabyte.com%2Flatest%2Fsample-data%2Fnorthwind%2F&psig=AOvVaw1Ud47xUNm2Z97C-RhC-Tdw&ust=1631386356487000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCOi82_SJ9fICFQAAAAAdAAAAABAD)
+![Northwind schema](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.yugabyte.com%2Flatest%2Fsample-data%2Fnorthwind%2F&psig=AOvVaw1Ud47xUNm2Z97C-RhC-Tdw&ust=1631386356487000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCOi82_SJ9fICFQAAAAAdAAAAABAD)
 
 **IMPORTANT**
 According to agenda excercises about aggregate functions should have 3TU and GROUP BY should be a part of it. 
