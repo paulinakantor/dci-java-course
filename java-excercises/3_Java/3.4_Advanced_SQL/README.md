@@ -15,16 +15,20 @@ By the end of this submodule, the learners should be able to:
 ## Materials and Resources
 
 ### Exercises - instruction
-The following section describes standalone exercises to give to students. 
 For excercises you need to use Northwind database.
 You can follow given instruction to set up this database: https://github.com/pthom/northwind_psql
 
 
 ![Northwind schema](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.yugabyte.com%2Flatest%2Fsample-data%2Fnorthwind%2F&psig=AOvVaw1Ud47xUNm2Z97C-RhC-Tdw&ust=1631386356487000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCOi82_SJ9fICFQAAAAAdAAAAABAD)
 
+You can find database also in this repository as **schema.png** file.
+
 **IMPORTANT**
-According to agenda excercises about aggregate functions should have 3TU and GROUP BY should be a part of it. 
-I introduced a change here by putting GROUP BY and HAVING together. So excercises for aggregate functions contains only tasks for COUNT, SUM, MIN, MAX, AVG functions I plannned them to take 1TU. Excercises for GROUP BY and HAVING I planned to take 3TU.
+According to agenda excercises about aggregate functions should have 3TUs and GROUP BY should be a part of it. 
+I introduced a change here by putting GROUP BY and HAVING together. So excercises for aggregate functions contains only tasks for COUNT, SUM, MIN, MAX, AVG functions and I plannned them to take 1TU. Excercises for GROUP BY and HAVING I planned to take 3TUs.
+
+File with excercises has only a list of tasks to do.
+File with solutions also contains difficulty level as well as time needed to make this task.
 
 #### Exercises
 
@@ -37,8 +41,8 @@ Solution: https://github.com/paulinakantor/dci-java-course/blob/solutions/java-e
 Data types excercises  
 Time: 2TUs ~ 1h30min  
 When: After lecture about data types  
-Link:   
-Solution: 
+Link: https://github.com/paulinakantor/dci-java-course/blob/main/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Datatypes/Datatypes%20excercises
+Solution: https://github.com/paulinakantor/dci-java-course/blob/solutions/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Datatypes/Datatypes%20solutions
   
 Sub queries excercises  
 Time: 1TU ~ 45min  
