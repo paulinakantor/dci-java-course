@@ -18,7 +18,6 @@ By the end of this submodule, the learners should be able to:
 For excercises you need to use Northwind database.
 You can follow given instruction to set up this database: https://github.com/pthom/northwind_psql
 
-
 ![Northwind schema](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdocs.yugabyte.com%2Flatest%2Fsample-data%2Fnorthwind%2F&psig=AOvVaw1Ud47xUNm2Z97C-RhC-Tdw&ust=1631386356487000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCOi82_SJ9fICFQAAAAAdAAAAABAD)
 
 You can find database also in this repository as **schema.png** file.
@@ -41,8 +40,8 @@ Solution: https://github.com/paulinakantor/dci-java-course/blob/solutions/java-e
 Data types excercises  
 Time: 2TUs ~ 1h30min  
 When: After lecture about data types  
-Link: https://github.com/paulinakantor/dci-java-course/blob/main/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Datatypes/Datatypes%20excercises
-Solution: https://github.com/paulinakantor/dci-java-course/blob/solutions/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Datatypes/Datatypes%20solutions
+Link: https://github.com/paulinakantor/dci-java-course/blob/main/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Datatypes/Datatypes%20excercises  
+Solution: https://github.com/paulinakantor/dci-java-course/blob/solutions/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Datatypes/Datatypes%20solutions  
   
 Sub queries excercises  
 Time: 1TU ~ 45min  
