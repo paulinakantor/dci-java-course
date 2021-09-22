@@ -29,6 +29,8 @@ I introduced a change here by putting GROUP BY and HAVING together. So excercise
 File with excercises has only a list of tasks to do.
 File with solutions also contains difficulty level as well as time needed to make this task.
 
+Expected from students: file with SQL scripts that will contain solutions (one file per chapter, like: joins_solutions.sql, etc).
+
 #### Exercises
 
 JOIN excercises  
@@ -48,6 +50,8 @@ Time: 1TU ~ 45min
 When: After lecture about sub queries (but max() function should be explained first)  
 Link: https://github.com/paulinakantor/dci-java-course/blob/main/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Subqueries/Sub%20queries%20excercises  
 Solution: https://github.com/paulinakantor/dci-java-course/blob/solutions/java-excercises/3_Java/3.4_Advanced_SQL/Java-Advanced_SQL-Subqueries/Sub%20queries%20solutions  
+
+IMPORTANT: some tasks of course can be solved using JOINs. Make sure that students use sub queries where possible.
 
 Aggregate functions excercises  
 Time: 1TU ~ 45min  

@@ -45,3 +45,6 @@ Data types excercises
 
 - Modify table "Invoices", add 4 new columns: payment deadline, transaction time, transaction hour, cyclic payment. Choose the right column types. 
 - Update each column with values
+- Update timezone in transaction type, set it to be Melbourne, Australia. Use documentation to find correct shortcut. 
+- Update timezone in transaction time column, set it to be Melbourne, Australia. Use documentation to find correct shortcut. 
+- Select transaction time column, make sure that 10 hours has been added to the time that previously was set.
