@@ -35,7 +35,7 @@ Expected from students: file with SQL scripts that will contain solutions (one f
 JOIN excercises  
 Time: 3TUs ~ 2h15min  
 When: After lecture about JOINs  
-Link: https://github.com/paulinakantor/dci-java-advsql-joins/blob/master/Join%20excercises 
+Link: https://github.com/paulinakantor/dci-java-advsql-joins/blob/master/Join%20excercises  
 Solutions: https://github.com/paulinakantor/dci-java-advsql-joins/blob/solutions/Join%20solutions  
 
  
