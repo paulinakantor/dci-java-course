@@ -15,10 +15,10 @@ After making those projects, students should be able to set up their own applica
 ### Projects - instruction
 There are 3 projects.
 
-Students should get an instruction which are the steps to go through. After each step students should exchange , so that both students will have a possibility to get their hands dirty with the work.
+Students should get an instruction which are the steps to go through. After each step students should exchange, so that both students have a possibility to get their hands dirty with the work.
 
 Sometimes, students will need to find some answers on the internet - this is exactly what they are going to do at work, since AWS services are evolving and changing constantly. 
-AWS have a really good documentation with a lot of code snippets, that may be simply reused.
+AWS have a really good documentation with a lot of code snippets that may be simply reused.
 
 All AWS related services are meant to be configured via AWS Console (UI).
 
@@ -38,15 +38,15 @@ Solution: https://github.com/paulinakantor/dci-java-cloud-aws/blob/solutions/EC2
 Reference project: https://github.com/paulinakantor/dci-java-cloud-aws/tree/solutions/EC2/awsDemoEC2  
 
 
-Spring Boot application on EC2 with integration with database on RDS
-Time: 3TUs ~ 135min  
+Spring Boot application on EC2 with integration with database on RDS  
+Time: 3TUs ~ 135min    
 When: After students finish the last project, because this one is going to be developed as a continuation. Also, students need to have a knowledge about RDS instances.    
 Link: https://github.com/paulinakantor/dci-java-cloud-aws/blob/main/RDS/Set%20up%20RDS%20%2B%20EC2  
 Solution: https://github.com/paulinakantor/dci-java-cloud-aws/blob/solutions/RDS/Setup%20RDS%20%2B%20EC2%20-%20SOLUTION.pdf  
 Reference project: https://github.com/paulinakantor/dci-java-cloud-aws/tree/solutions/RDS/awsDemoRDS    
 
 
-AWS Lambda usage example - triggering from S3
+AWS Lambda usage example - triggering from S3  
 Time: 2TUs ~ 90min  
 When: After a self study about AWS Lambda  
 Link: https://github.com/paulinakantor/dci-java-cloud-aws/blob/main/Lambda/Set%20up%20Lambda%20function  
