@@ -9,7 +9,7 @@ After this submodule, students should have an idea what problems cloud solutions
 
 
 ## Materials and Resources
-[Cloud vs on-premises!](https://intellias.com/cloud-computing-vs-on-premises-comparison-guide/)
+[Cloud vs on-premises](https://intellias.com/cloud-computing-vs-on-premises-comparison-guide/)
 
 
 ### Exercises - instruction

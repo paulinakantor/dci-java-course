@@ -9,7 +9,7 @@ After making those projects, students should be able to set up their own applica
 
 
 ## Materials and Resources
-[AWS DOCS!](https://docs.aws.amazon.com/)
+[AWS DOCS](https://docs.aws.amazon.com/)
 
 
 ### Projects - instruction
