@@ -15,14 +15,14 @@ After making those projects, students should be able to set up their own applica
 ### Projects - instruction
 There are 3 projects.
 
-Students should get an instruction which are steps to go through. After each step students should change each other, so that both students will have a possibility to get their hands dirty with the work.
+Students should get an instruction which are the steps to go through. After each step students should exchange , so that both students will have a possibility to get their hands dirty with the work.
 
-The main purpose of those projects are to be able to sometimes look for solutions in the internet. AWS have a really good documentation with a lot of code snippets, that may be simply reused.
-
+Sometimes, students will need to find some answers on the internet - this is exactly what they are going to do at work, since AWS services are evolving and changing constantly. 
+AWS have a really good documentation with a lot of code snippets, that may be simply reused.
 
 All AWS related services are meant to be configured via AWS Console (UI).
 
-If students have any troubles with projects, let's share the solution branch with them. Solution branch contains a pdf that is more like tutorial with screen shots that explains exacly "where to click" in order to configure everything in the AWS Console.
+If students have any troubles with the projects, let's share the solution branch with them. Solution branch contains a pdf file which is more like tutorial with screen shots that explains exacly "where to click".
 
 Also, on a solution branch, you can find a final Java project that needs to be deployed on EC2/Lambda.
 

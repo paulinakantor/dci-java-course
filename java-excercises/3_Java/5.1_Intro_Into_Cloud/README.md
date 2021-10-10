@@ -21,7 +21,7 @@ As an output students should provide a text file that will answer both tasks.
 
 Cloud vs on-premises excercises  
 Time: 1TUs ~ 45min  
-When: At the end of the submodule
-Link: https://github.com/paulinakantor/dci-java-cloud-intro/blob/main/Java%20-%20Cloud%20Services%20-%20Intro%20into%20Cloud%20-%20TASKS
+When: At the end of the submodule  
+Link: https://github.com/paulinakantor/dci-java-cloud-intro/blob/main/Java%20-%20Cloud%20Services%20-%20Intro%20into%20Cloud%20-%20TASKS  
 Solution: https://github.com/paulinakantor/dci-java-cloud-intro/blob/solutions/Java%20-%20Cloud%20Services%20-%20Intro%20into%20Cloud%20-%20Solutions   
 
